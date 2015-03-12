@@ -5,6 +5,11 @@ Compilation of Achanta's background masks with their respective images of Liu's 
 * **binarymasks.zip**: Achanta's binary masks (please see Achanta's website for copyright information)
 * **images.zip**: Liu's images (please see Liu's website for copyright information)
 
+Please cite the related papers
+
+* R. Achanta, S. Hemami, F. Estrada and S. Susstrunk, Frequency-tuned Salient Region Detection, IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2009.
+* Tie Liu, Jian Sun, Nan-Ning Zheng, Xiaoou Tang and Heung-Yeung Shum. Learning to Detect A Salient Object. In Proc. IEEE Cont. on Computer Vision and pattern Recognition (CVPR), 2007.
+
 ## Original Data URLs
 
 ### Achanta
