@@ -2,7 +2,7 @@
 
 Compilation of Achanta's background masks with their respective images of Liu's MSRA dataset.
 
-* **binarymasks.zip**: Achanta's binary masks (please see Achanta's website for copyright information)
+* **binarymasks.zip**: Achanta's binary masks (please see Achanta's website for copyright information). Please note that the masks have been converted from .bmp to .jpg.
 * **images.zip**: Liu's images (please see Liu's website for copyright information)
 
 Please cite the related papers
